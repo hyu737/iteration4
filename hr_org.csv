@@ -1,4 +1,4 @@
-Name,Age,Gender,Projects Completed,Productivity (%),Satisfaction Rate (%),Feedback Score,Department,Position,Joining Date
+Name,Age,Gender,ProjectsCompleted,Productivity(%),SatisfactionRate(%),FeedbackScore,Department,Position,JoiningDate
 Douglas Lindsey,25,Male,11,57,25,4.7,Marketing,Analyst,20-Jan
 Anthony Roberson,59,Female,79,55,76,2.8,IT,Manager,Jan-99
 Thomas Miller,30,Male,8,87,10,2.4,IT,Analyst,17-Jan
